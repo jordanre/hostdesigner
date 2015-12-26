@@ -1,0 +1,1 @@
+The HostDesigner is free scientific software developed by Dr. Benjamin Hay and co-workers. The aim of HostDesigner is to develop molecular design algorithms to achieve software that is capable of identifying the best host architectures for a specific metal ion guest. Current version is 2.0
